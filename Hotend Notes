@@ -1,0 +1,14 @@
+#############HOTEND#############
+Sensor is 100K thermistor - ATC Semitec 104GT-2
+sensor_type: ATC Semitec 104GT-2
+
+cable is already properly wired/pinned
+
+
+
+############EXTRUDER############
+
+Pancake stepper is : 17HS4023
+1A PEAK; 0.7A RMS
+run_current: 0.595A ; for safety
+hold_current: 0.3A ; 50% of run
