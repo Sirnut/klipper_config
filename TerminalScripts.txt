@@ -1,0 +1,13 @@
+SCRIPTS
+
+#### KIAUH ######################
+
+./kiauh/kiauh.sh
+
+
+#### GitHub Push/Pull ###########
+
+cd ~/klipper_config/
+git add .
+git commit -m "backup"
+git push -u origin master`
