@@ -23,3 +23,7 @@ VSC has something called Source Control that manages all of your changes and pro
 [jschuh's klipper-macros are awesome](https://github.com/jschuh/klipper-macros.git)
 
 [AndrewEllis93 has a great print tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+
+[zellneralex has a crazy Voron that mostly doesn't apply to me, but I've learned alot from inspecting his macros](https://github.com/zellneralex/klipper_config)
+
+[klipper macro creation tutorial](https://klipper.discourse.group/t/macro-creation-tutorial/30)
